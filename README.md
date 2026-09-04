@@ -1,9 +1,5 @@
-# Odin Test
+# Recipes
 
-My first Git repository on Xubuntu.
+A simple recipe website project created while learning web development with The Odin Project.
 
-I'm setting up my development environment for The Odin Project.
-
-Hello ODIN !
-
-Testing commit message waite feature
+Browse easy recipes and practice building webpages with HTML and CSS.
